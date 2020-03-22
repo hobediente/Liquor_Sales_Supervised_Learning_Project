@@ -23,6 +23,7 @@ This includes using both datasets to predict yearly sales per county in Iowa usi
 
 # Analysis 1 - Exploratory Analysis
 - I divide the analysis into the following parts:
+
 **A) Yearly Analysis**: sales per category, sales per county, sales per bottle volume
 
 **B) Monthly Analysis**: total sales, sales per category
