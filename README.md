@@ -24,8 +24,11 @@ This includes using both datasets to predict yearly sales per county in Iowa usi
 # Analysis 1 - Exploratory Analysis
 - I divide the analysis into the following parts:
 **A) Yearly Analysis**: sales per category, sales per county, sales per bottle volume
+
 **B) Monthly Analysis**: total sales, sales per category
+
 **C) Identifying Customer Base**: Analyzing relationship between population demographics and sales per county. 
+
 **D) Predicting Sales**: Using demographic and sales data from 2017 to predict yearly sales per county for 2018.
 
 # A) Yearly Analysis :
@@ -38,14 +41,26 @@ In this step, I preformed the following using Google BigQuery
 
 # A) Yearly Analysis :
 **Step 2 : Exploring the data**
-In this step, I have preformed the following steps to get the result
-- Used pandas functionalities to group by year, and preform various analysis 
-
-# Conclusion 
+In this step, I preformed the following using pandas functionalities
+- Examine volume of liqour sold in gallons grouped by category
+- Examine volume of liquor sold in gallons grouped by county
+- Examine volume of liquor sold in gallons grouped by bottle size 
 
 # A) Yearly Analysis :
 **Step 3 : Visualizing the data**
-In this step, I visualized the previous findings using ... libraries 
+In this step, I visualized the previous findings using plotly.express 
+
+<img src="https://github.com/hobediente/.png"></img>
+
+# Conclusion: American Vodkas account for nearly half of all sales
+
+<img src="https://github.com/hobediente/.png"></img>
+
+# Conclusion: Ten out of ninety-nine counties account for over sixty percent of sales
+
+<img src="https://github.com/hobediente/.png"></img>
+
+# Conclusion: 1750ml, 1000ml, and 750ml the dominate size of bottles sold
 
 # A) Monthly Analysis :
 **Step 1 : Exploring the data**
