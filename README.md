@@ -1,8 +1,8 @@
 # Liquor Sales Supervised Learning Project
 
-Identify trends in Luxico Inc's liquor sales for Iowa. 
+Identify trends in Luxco Inc's liquor sales for Iowa. 
 
-How well a liquor distributor prevents stockouts, optimizes distribution, and effectively advertizes can make or break thier success. The purpose of this project is to identify trends for Luxico Inc's liquor sales in Iowa that are critical to operating optimally. 
+How well a liquor distributor prevents stockouts, optimizes distribution, and effectively advertizes can make or break thier success. The purpose of this project is to identify trends for Luxco Inc's liquor sales in Iowa that are critical to operating optimally. 
 
 # DATA:
 
