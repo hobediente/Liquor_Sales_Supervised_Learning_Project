@@ -63,9 +63,45 @@ In this step, I visualized the previous findings using plotly.express
 
 # Conclusion: 1750ml, 1000ml, and 750ml the dominate size of bottles sold
 
-# A) Monthly Analysis :
+# B) Monthly Analysis :
 **Step 1 : Exploring the data**
-In this step, I have preformed the following steps to get the result
-- Used pandas functionalities to group by month, and preform various analysis 
+In this step, I preformed the following using pandas functionalities
+- Examine total sales per month
+- Examine total sales per month by category of alcohol 
 
 
+# B) Monthly Analysis :
+**Step 2 : Visualizing the data**
+In this step, I visualized the previous findings using seaborn
+
+<img src="https://github.com/hobediente/.png"></img>
+
+# Conclusion: Sales appear to spike in even numbered months and fall in odd numbered months.
+
+<img src="https://github.com/hobediente/.png"></img>
+
+# Conclusion: Certain categories of alcohol appear to be seasonaly ordered i.e. mixto tequila, while others show more consistency. 
+
+# C) Identifying Customer Base** :
+**Step 1 : Exploring the data**
+In this step, I preformed the following using pandas functionalities
+- Examine the percentage of educated population over 25 per county
+- Examine the percentage of population between 18 and 24 by county
+
+# C) Identifying Customer Base** :
+**Step 2 : Visualizing the data**
+In this step, I visualized the previous findings using ploty.express
+
+<img src="https://github.com/hobediente/.png"></img>
+
+# Conclusion: Sales appear to spike in even numbered months and fall in odd numbered months.
+
+<img src="https://github.com/hobediente/.png"></img>
+
+# Conclusion: Certain categories of alcohol appear to be seasonaly ordered i.e. mixto tequila, while others show more 
+
+**D) Predicting Sales**:
+In this step, I preformed the following to prepare the data for modeling 
+- 
+
+# Analysis 2 - Modeling Sales
