@@ -57,7 +57,7 @@ In this step, I visualized the previous findings using plotly.express
 
 # Conclusion: American Vodkas account for nearly half of all sales
 
-<img src="https://github.com/hobediente/.png"></img>
+<img src="https://github.com/hobediente/Liquor_Sales_Supervised_Learning_Project/blob/master/Gallons_Sold_per_County.png"></img>
 
 # Conclusion: Ten out of ninety-nine counties account for over sixty percent of sales
 
