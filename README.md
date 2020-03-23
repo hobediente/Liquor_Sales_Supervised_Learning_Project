@@ -76,7 +76,7 @@ In this step, I preformed the following using pandas functionalities
 **Step 2 : Visualizing the data**
 In this step, I visualized the previous findings using seaborn
 
-<img src="https://github.com/hobediente/.png"></img>
+<img src="https://github.com/hobediente/Liquor_Sales_Supervised_Learning_Project/blob/master/Sales%20Over%20Time.png"></img>
 
 # Conclusion: Sales appear to spike in even numbered months and fall in odd numbered months.
 
