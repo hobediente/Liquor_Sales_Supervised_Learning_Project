@@ -14,10 +14,10 @@ There are two sources of data in my project
 
 # DATA ANALYSIS:
 
-# 1 : Exploratory Analysis:
+# 1. Exploratory Analysis:
 This includes using the liquor sales dataset to visualze the relationships between sales (in dollars) and other features.
 
-# 2 : Modeling Sales:
+# 2. Modeling Sales:
 This includes using both datasets to predict yearly sales per county in Iowa using data from the previous year.
 
 
