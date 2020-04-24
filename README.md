@@ -23,7 +23,7 @@ This includes using both datasets to predict yearly sales per county in Iowa usi
 
 -----------------------------------------------------------------------------------------------------------
 
-# Analysis 1 - Exploratory Analysis
+# Exploratory Analysis
 - I divide the analysis into the following parts:
 
 **A) Yearly Analysis**: sales per category, sales per county, sales per bottle volume
@@ -106,4 +106,4 @@ In this step, I visualized the previous findings using ploty.express
 In this step, I preformed the following to prepare the data for modeling 
 - 
 
-# Analysis 2 - Modeling Sales
+# Modeling Sales
