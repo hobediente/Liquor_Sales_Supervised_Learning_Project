@@ -37,6 +37,7 @@ In this step the unique dataset I put together is used to predict yearly sales p
 
 # A) Yearly Analysis :
 **Step 1 : Selecting the data**
+
 The following steps are preformed using Google BigQuery
 - Identify top distributers in Iowa Liquor Sales dataset
 - Audit top distributers by the variety of alcohol they sell
@@ -46,6 +47,7 @@ The following steps are preformed using Google BigQuery
 
 # A) Yearly Analysis :
 **Step 2 : Exploring the data**
+
 The following steps are preformed using pandas functionalities
 - Examine volume of liqour sold in gallons grouped by category
 - Examine volume of liquor sold in gallons grouped by county
@@ -53,6 +55,7 @@ The following steps are preformed using pandas functionalities
 
 # A) Yearly Analysis :
 **Step 3 : Visualizing the data**
+
 In this step, I visualize the previous findings using plotly.express 
 
 <img src="https://github.com/hobediente/Liquor_Sales_Supervised_Learning_Project/blob/master/Images/Gallons_per_Category.png"></img>
