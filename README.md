@@ -55,7 +55,7 @@ The following steps are preformed using pandas functionalities
 **Step 3 : Visualizing the data**
 In this step, I visualize the previous findings using plotly.express 
 
-<img src="https://github.com/hobediente/.png"></img>
+<img src="https://github.com/hobediente/Liquor_Sales_Supervised_Learning_Project/blob/master/Images/Gallons_per_Bottle_Size.png"></img>
 
 # Conclusion: American Vodkas account for nearly half of all sales
 
