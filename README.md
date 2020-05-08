@@ -43,7 +43,7 @@ The following steps are preformed using Google BigQuery
 - Audit top distributers by the variety of alcohol they sell
 - Select a top distributer that sells a wide variety of alcohol -- Luxico Inc-- and subset data for years 2017-2018
 
-# Conclusion: Luxico Inc is the second largest distributer in Iowa, and sells 34 different categories of alcohol. 
+### Conclusion: Luxico Inc is the second largest distributer in Iowa, and sells 34 different categories of alcohol. 
 
 # A) Yearly Analysis :
 **Step 2 : Exploring the data**
