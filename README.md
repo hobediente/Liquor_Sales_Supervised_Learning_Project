@@ -111,7 +111,8 @@ In this step, I visualized the previous findings using ploty.express
 
 ### Conclusion: Certain categories of alcohol appear to be seasonaly ordered i.e. mixto tequila, while others show more 
 
-**D) Predicting Sales**:
+# D) Predicting Sales** :
+
 In this step, I preformed the following to prepare the data for modeling 
 - 
 
