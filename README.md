@@ -43,7 +43,7 @@ The following steps are preformed using Google BigQuery
 - Audit top distributers by the variety of alcohol they sell
 - Select a top distributer that sells a wide variety of alcohol -- Luxico Inc-- and subset data for years 2017-2018
 
-#### Conclusion: Luxico Inc is the second largest distributer in Iowa, and sells 34 different categories of alcohol. 
+### Conclusion: Luxico Inc is the second largest distributer in Iowa, and sells 34 different categories of alcohol. 
 
 # A) Yearly Analysis :
 **Step 2 : Exploring the data**
@@ -60,15 +60,15 @@ In this step, I visualize the previous findings using plotly.express
 
 <img src="https://github.com/hobediente/Liquor_Sales_Supervised_Learning_Project/blob/master/Images/Gallons_per_Category.png"></img>
 
-#### Conclusion: American Vodkas account for nearly half of all sales
+### Conclusion: American Vodkas account for nearly half of all sales
 
 <img src="https://github.com/hobediente/Liquor_Sales_Supervised_Learning_Project/blob/master/Images/Gallons_per_County.png"></img>
 
-#### Conclusion: Ten out of ninety-nine counties account for over sixty percent of sales
+### Conclusion: Ten out of ninety-nine counties account for over sixty percent of sales
 
 <img src="https://github.com/hobediente/Liquor_Sales_Supervised_Learning_Project/blob/master/Images/Gallons_per_Bottle_Size.png"></img>
 
-# Conclusion: 1750ml, 1000ml, and 750ml the dominate size of bottles sold
+### Conclusion: 1750ml, 1000ml, and 750ml the dominate size of bottles sold
 
 # B) Monthly Analysis :
 **Step 1 : Exploring the data**
@@ -85,11 +85,11 @@ In this step, I visualized the previous findings using seaborn
 
 <img src="https://github.com/hobediente/Liquor_Sales_Supervised_Learning_Project/blob/master/Sales%20Over%20Time.png"></img>
 
-#### Conclusion: Sales appear to spike in even numbered months and fall in odd numbered months.
+### Conclusion: Sales appear to spike in even numbered months and fall in odd numbered months.
 
 <img src="https://github.com/hobediente/.png"></img>
 
-#### Conclusion: Certain categories of alcohol appear to be seasonaly ordered i.e. mixto tequila, while others show more consistency. 
+### Conclusion: Certain categories of alcohol appear to be seasonaly ordered i.e. mixto tequila, while others show more consistency. 
 
 # C) Identifying Customer Base** :
 **Step 1 : Exploring the data**
@@ -105,11 +105,11 @@ In this step, I visualized the previous findings using ploty.express
 
 <img src="https://github.com/hobediente/.png"></img>
 
-#### Conclusion: Sales appear to spike in even numbered months and fall in odd numbered months.
+### Conclusion: Sales appear to spike in even numbered months and fall in odd numbered months.
 
 <img src="https://github.com/hobediente/.png"></img>
 
-#### Conclusion: Certain categories of alcohol appear to be seasonaly ordered i.e. mixto tequila, while others show more 
+### Conclusion: Certain categories of alcohol appear to be seasonaly ordered i.e. mixto tequila, while others show more 
 
 **D) Predicting Sales**:
 In this step, I preformed the following to prepare the data for modeling 
