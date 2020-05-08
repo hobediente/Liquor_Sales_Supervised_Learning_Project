@@ -72,6 +72,7 @@ In this step, I visualize the previous findings using plotly.express
 
 # B) Monthly Analysis :
 **Step 1 : Exploring the data**
+
 In this step, I preformed the following using pandas functionalities
 - Examine total sales per month
 - Examine total sales per month by category of alcohol 
@@ -79,6 +80,7 @@ In this step, I preformed the following using pandas functionalities
 
 # B) Monthly Analysis :
 **Step 2 : Visualizing the data**
+
 In this step, I visualized the previous findings using seaborn
 
 <img src="https://github.com/hobediente/Liquor_Sales_Supervised_Learning_Project/blob/master/Sales%20Over%20Time.png"></img>
@@ -91,12 +93,14 @@ In this step, I visualized the previous findings using seaborn
 
 # C) Identifying Customer Base** :
 **Step 1 : Exploring the data**
+
 In this step, I preformed the following using pandas functionalities
 - Examine the percentage of educated population over 25 per county
 - Examine the percentage of population between 18 and 24 by county
 
 # C) Identifying Customer Base** :
 **Step 2 : Visualizing the data**
+
 In this step, I visualized the previous findings using ploty.express
 
 <img src="https://github.com/hobediente/.png"></img>
