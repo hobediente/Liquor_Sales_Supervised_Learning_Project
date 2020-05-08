@@ -55,15 +55,15 @@ The following steps are preformed using pandas functionalities
 **Step 3 : Visualizing the data**
 In this step, I visualize the previous findings using plotly.express 
 
-<img src="https://github.com/hobediente/Liquor_Sales_Supervised_Learning_Project/blob/master/Images/Gallons_per_Bottle_Size.png"></img>
+<img src="https://github.com/hobediente/Liquor_Sales_Supervised_Learning_Project/blob/master/Images/Gallons_per_Category.png"></img>
 
 # Conclusion: American Vodkas account for nearly half of all sales
 
-<img src="https://github.com/hobediente/Liquor_Sales_Supervised_Learning_Project/blob/master/Gallons_Sold_per_County.png"></img>
+<img src="https://github.com/hobediente/Liquor_Sales_Supervised_Learning_Project/blob/master/Images/Gallons_per_County.png"></img>
 
 # Conclusion: Ten out of ninety-nine counties account for over sixty percent of sales
 
-<img src="https://github.com/hobediente/.png"></img>
+<img src="https://github.com/hobediente/Liquor_Sales_Supervised_Learning_Project/blob/master/Images/Gallons_per_Bottle_Size.png"></img>
 
 # Conclusion: 1750ml, 1000ml, and 750ml the dominate size of bottles sold
 
