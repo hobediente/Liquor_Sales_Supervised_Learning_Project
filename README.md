@@ -8,17 +8,18 @@ How well a liquor distributor prevents stockouts, optimizes distribution, and ef
 
 # DATA:
 
-There are two sources of data in my project
-1) Iowa Liqour Sales - Google BigQuery
-2) Iowa Population Demographics - Iowa Government Website 
+The data for this project is sourced from two places
+1) Iowa Liqour Sales - Google BigQuery (https://console.cloud.google.com/marketplace/details/iowa-department-of-commerce/iowa-liquor-sales) - Each observation is an invoice for a liqour sale that contains geographic, vendor, and sale item(s) information.
+
+2) Iowa Population Demographics - Iowa Government Website (https://data.iowa.gov/) - Each observation contains County-level demographic and education information.
 
 # DATA ANALYSIS:
 
 # 1. Exploratory Analysis:
-This includes using the liquor sales dataset to visualze the relationships between sales (in dollars) and other features.
+In this step the relationships between sales (in dollars) and other features are explored and visualized.
 
 # 2. Modeling Sales:
-This includes using both datasets to predict yearly sales per county in Iowa using data from the previous year.
+In this step the unique dataset I put together is used to predict yearly sales per county in Iowa using data from the previous year.
 
 
 -----------------------------------------------------------------------------------------------------------
@@ -26,32 +27,33 @@ This includes using both datasets to predict yearly sales per county in Iowa usi
 # Exploratory Analysis
 - I divide the analysis into the following parts:
 
-**A) Yearly Analysis**: sales per category, sales per county, sales per bottle volume
+**A) Yearly Analysis**: Sales per category, sales per county, sales per bottle volume
 
-**B) Monthly Analysis**: total sales, sales per category
+**B) Monthly Analysis**: Total sales, sales per category
 
 **C) Identifying Customer Base**: Analyzing relationship between population demographics and sales per county. 
 
 **D) Predicting Sales**: Using demographic and sales data from 2017 to predict yearly sales per county for 2018.
 
 # A) Yearly Analysis :
-**Step 1 : Identifying the data**
-In this step, I preformed the following using Google BigQuery
-- Identify top distributers in Iowa Liquor Sales dataset, and audit the variety of alcohol each sells. 
-- Filter dataset by a top distributer that selles a wide variety of alcohol -- Luxico Inc-- and year -- 2017-2018.
+**Step 1 : Selecting the data**
+The following steps are preformed using Google BigQuery
+- Identify top distributers in Iowa Liquor Sales dataset
+- Audit top distributers by the variety of alcohol they sell
+- Select a top distributer that sells a wide variety of alcohol -- Luxico Inc-- and subset data for years 2017-2018
 
 # Conclusion: Luxico Inc is the second largest distributer in Iowa, and sells 34 different categories of alcohol. 
 
 # A) Yearly Analysis :
 **Step 2 : Exploring the data**
-In this step, I preformed the following using pandas functionalities
+The following steps are preformed using pandas functionalities
 - Examine volume of liqour sold in gallons grouped by category
 - Examine volume of liquor sold in gallons grouped by county
 - Examine volume of liquor sold in gallons grouped by bottle size 
 
 # A) Yearly Analysis :
 **Step 3 : Visualizing the data**
-In this step, I visualized the previous findings using plotly.express 
+In this step, I visualize the previous findings using plotly.express 
 
 <img src="https://github.com/hobediente/.png"></img>
 
