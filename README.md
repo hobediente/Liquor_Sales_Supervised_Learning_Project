@@ -9,8 +9,8 @@ How well a liquor distributor prevents stockouts, optimizes distribution, and ef
 # DATA:
 
 There are two sources of data in my project
-1) Iowa Liqour Sales
-2) Iowa Population Demographics
+1) Iowa Liqour Sales - Google BigQuery
+2) Iowa Population Demographics - Iowa Government Website 
 
 # DATA ANALYSIS:
 
