@@ -4,7 +4,7 @@ Identify trends in Luxco Inc's liquor sales for Iowa.
 
 How well a liquor distributor prevents stockouts, optimizes distribution, and effectively advertizes can make or break thier success. The purpose of this project is to identify trends for Luxco Inc's liquor sales in Iowa that are critical to operating optimally. 
  
-<img src="https://github.com/hobediente/Liquor_Sales_Supervised_Learning_Project/blob/master/LuxcoLogo-ad-1020x372.png" width="700" height="250"></img>
+<img src="https://github.com/hobediente/Liquor_Sales_Supervised_Learning_Project/blob/master/LuxcoLogo-ad-1020x372.png" width="500" height="200"></img>
 
 # DATA:
 
