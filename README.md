@@ -106,7 +106,7 @@ In this step, I preformed the following using pandas functionalities
 
 In this step, I visualized the previous findings using ploty.express
 
-<img src="Images/Pop_Stats_and_Sales.png"></img>
+<img src="Images/Pop_Stats_and_Sales.png"width="400" height="400"></img>
 
 ### Conclusion: Sales are highly correlated to the percentage of educated population under 25.
 
