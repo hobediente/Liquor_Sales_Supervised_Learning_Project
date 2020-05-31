@@ -95,13 +95,13 @@ In this step, I visualized the previous findings using seaborn
 
 ### Conclusion: Certain categories of alcohol appear to be seasonaly ordered i.e. mixto tequila, while others show more consistency. 
 
-# C) Identifying Customer Base** 
+# C) Customer Analysis :
 **Step 1 : Exploring the data**
 
 In this step, I preformed the following using pandas functionalities
 - Examine the relationship between population demographics per county and sales
 
-# C) Identifying Customer Base** 
+# C) Customer Analysis :
 **Step 2 : Visualizing the data**
 
 In this step, I visualized the previous findings using ploty.express
