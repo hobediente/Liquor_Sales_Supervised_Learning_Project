@@ -108,7 +108,7 @@ In this step, I visualized the previous findings using ploty.express
 
 <img src="Images/Pop_Stats_and_Sales.png" width="600" height="600"></img>
 
-### Conclusion: Sales are highly correlated to the percentage of educated population under 25.
+### Conclusion: Sales are highly correlated to the percent of educated population under 25.
 
 
 # Modeling Sales
