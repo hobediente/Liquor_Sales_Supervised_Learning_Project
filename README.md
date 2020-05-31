@@ -19,7 +19,7 @@ The data for this project is sourced from two places
 In this step the relationships between sales (in dollars) and other features are explored and visualized.
 
 # 2. Modeling Sales:
-In this step the unique dataset I put together is used to predict yearly sales per county in Iowa using data from the previous year.
+In this step the unique dataset I put together is used to predict yearly liquor sales per county in Iowa using data from the previous year.
 
 
 -----------------------------------------------------------------------------------------------------------
