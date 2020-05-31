@@ -106,11 +106,9 @@ In this step, I preformed the following using pandas functionalities
 
 In this step, I visualized the previous findings using ploty.express
 
-<img src="https://github.com/hobediente/.png"></img>
+<img src="Images/Pop_Stats_and_Sales.png"></img>
 
-### Conclusion: Sales appear to spike in even numbered months and fall in odd numbered months.
-
-### Conclusion: Certain categories of alcohol appear to be seasonaly ordered i.e. mixto tequila, while others show more 
+### Conclusion: Sales are highly correlated to the percentage of educated population under 25.
 
 
 # Modeling Sales
