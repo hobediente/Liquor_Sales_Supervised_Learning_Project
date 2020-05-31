@@ -95,18 +95,18 @@ In this step, I visualized the previous findings using seaborn
 
 ### Conclusion: Certain categories of alcohol appear to be seasonaly ordered i.e. mixto tequila, while others show more consistency. 
 
-# C) Identifying Customer Base** :
+# C) Identifying Customer Base** 
 **Step 1 : Exploring the data**
 
 In this step, I preformed the following using pandas functionalities
 - Examine the relationship between population demographics per county and sales
 
-# C) Identifying Customer Base** :
+# C) Identifying Customer Base** 
 **Step 2 : Visualizing the data**
 
 In this step, I visualized the previous findings using ploty.express
 
-<img src="Images/Pop_Stats_and_Sales.png" width="400" height="400"></img>
+<img src="Images/Pop_Stats_and_Sales.png" width="600" height="600"></img>
 
 ### Conclusion: Sales are highly correlated to the percentage of educated population under 25.
 
