@@ -15,17 +15,53 @@ The data for this project is sourced from two places
 
 # DATA ANALYSIS:
 
-# 1. Exploratory Analysis:
+# 1. Data Collection:
+In this step I collect and synthesize data.
+
+# 2. Exploratory Analysis:
 In this step the relationships between sales (in dollars) and other features are explored and visualized.
 
-# 2. Modeling Sales:
+# 3. Modeling Sales:
 In this step the unique dataset I put together is used to predict yearly liquor sales per county in Iowa using data from the previous year.
 
 
 -----------------------------------------------------------------------------------------------------------
 
+# Data Collection and Preperation 
+
 # Exploratory Analysis
 - I divide the analysis into the following parts:
+**Step 1 : Selecting the data**
+The following steps are preformed using Google BigQuery
+
+- Identify top distributers in Iowa Liquor Sales dataset
+- Audit top distributers by the variety of alcohol they sell
+- Select a top distributer that sells a wide variety of alcohol -- Luxico Inc-- and subset data for years 2017-2018
+
+### Conclusion: Luxico Inc is the second largest distributer in Iowa, and sells 34 different categories of alcohol. 
+
+- Select county-level demographic data
+- Select county-level education data
+
+### Conclusion: There are 99 counties in Iowa.
+
+**Step 2 : Aggregating the data**
+The following steps were preformed using Python functionalities
+
+- Clean the data
+- Combine liquor invoice, demographic, and education CSV sheets on county name
+
+**Step 3 : Feature Engineering**
+The following steps were preformed using Pandas
+
+- Create columns for...
+   * The total educated population under the age of 25
+   * The percent of population under the age of 25
+   * The percent of population over 25
+   * The percent of the population that is of drinking age
+ 
+ - The final df 
+ <img src="https://github.com/hobediente/Liquor_Sales_Supervised_Learning_Project/blob/master/Images/Gallons_per_Category.png"></img>
 
 **A) Yearly Analysis**: Sales per category, sales per county, sales per bottle volume
 
@@ -36,17 +72,7 @@ In this step the unique dataset I put together is used to predict yearly liquor 
 **D) Predicting Sales**: Using demographic and sales data from 2017 to predict yearly sales per county for 2018.
 
 # A) Yearly Analysis :
-**Step 1 : Selecting the data**
-
-The following steps are preformed using Google BigQuery
-- Identify top distributers in Iowa Liquor Sales dataset
-- Audit top distributers by the variety of alcohol they sell
-- Select a top distributer that sells a wide variety of alcohol -- Luxico Inc-- and subset data for years 2017-2018
-
-### Conclusion: Luxico Inc is the second largest distributer in Iowa, and sells 34 different categories of alcohol. 
-
-# A) Yearly Analysis :
-**Step 2 : Exploring the data**
+**Step 1 : Exploring the data**
 
 The following steps are preformed using pandas functionalities
 - Examine volume of liqour sold in gallons grouped by category
@@ -54,7 +80,7 @@ The following steps are preformed using pandas functionalities
 - Examine volume of liquor sold in gallons grouped by bottle size 
 
 # A) Yearly Analysis :
-**Step 3 : Visualizing the data**
+**Step 2 : Visualizing the data**
 
 In this step, I visualize the previous findings using plotly.express 
 
