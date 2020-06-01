@@ -57,7 +57,7 @@ The following steps were preformed using Pandas
    * The percent of population over 25
    * The percent of the population that is of drinking age
  
- - The final df 
+ - The df 
  <img src="Images/df.png"></img>
  
 # Exploratory Analysis
@@ -73,8 +73,8 @@ The following steps were preformed using Pandas
 
 # A) Yearly Analysis :
 **Step 1 : Exploring the data**
-
 The following steps are preformed using pandas functionalities
+
 - Examine volume of liqour sold in gallons grouped by category
 - Examine volume of liquor sold in gallons grouped by county
 - Examine volume of liquor sold in gallons grouped by bottle size 
@@ -123,8 +123,9 @@ In this step, I visualized the previous findings using seaborn
 
 # C) Customer Analysis :
 **Step 1 : Exploring the data**
-
 In this step, I preformed the following using pandas functionalities
+
+- Group DataFrame by county, summing for the total amount of liquor sold in gallons, and taking the mode for relevant population statics
 - Examine the relationship between population demographics per county and sales
 
 # C) Customer Analysis :
