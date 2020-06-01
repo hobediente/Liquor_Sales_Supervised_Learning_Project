@@ -34,14 +34,13 @@ The following steps are preformed using Google BigQuery
 
 - Identify top distributers in Iowa Liquor Sales dataset
 - Audit top distributers by the variety of alcohol they sell
-- Select a top distributer that sells a wide variety of alcohol -- Luxico Inc-- and subset data for years 2017-2018
+- Select a top distributer that sells a wide variety of alcohol -- Luxico Inc-- and subset data for years 2017-2018 
 
-### Conclusion: Luxico Inc is the second largest distributer in Iowa, and sells 34 different categories of alcohol. 
+- Select county-level demographic data for years 2017-2018
 
-- Select county-level demographic data
-- Select county-level education data
+- Select county-level education data for years 2017-2018
 
-### Conclusion: There are 99 counties in Iowa.
+### Conclusion: There are 99 counties in Iowa. Luxico Inc is the second largest distributer in Iowa, and sells 34 different categories of alcohol. 
 
 **Step 2 : Aggregating the data**
 The following steps were preformed using Python functionalities
