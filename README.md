@@ -27,10 +27,8 @@ In this step the unique dataset I put together is used to predict yearly liquor 
 
 -----------------------------------------------------------------------------------------------------------
 
-# Data Collection and Preperation 
+# Data Collection 
 
-# Exploratory Analysis
-- I divide the analysis into the following parts:
 **Step 1 : Selecting the data**
 The following steps are preformed using Google BigQuery
 
@@ -61,7 +59,10 @@ The following steps were preformed using Pandas
    * The percent of the population that is of drinking age
  
  - The final df 
- <img src="https://github.com/hobediente/Liquor_Sales_Supervised_Learning_Project/blob/master/Images/Gallons_per_Category.png"></img>
+ <img src="Images/df.png"></img>
+ 
+# Exploratory Analysis
+- I divide the analysis into the following parts:
 
 **A) Yearly Analysis**: Sales per category, sales per county, sales per bottle volume
 
