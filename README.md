@@ -159,8 +159,8 @@ In this step, I visualized the previous findings using ploty.express
 # Model Results 
 - XGboost is the best preforming model 
 - With input features of category, percent population with an education, and percent population under 25 the model achieved..
-  * Training Score: , Test Score: 
-  * RMSE: 
+  * Training Score: 0.9991, Test Score: 0.9964
+  * RMSE: 17357.78
   
 # Analysis Takeaways 
 - Focus advertising resources on counties that bring in the most money
