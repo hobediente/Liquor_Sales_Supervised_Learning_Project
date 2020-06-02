@@ -156,13 +156,13 @@ In this step, I visualized the previous findings using ploty.express
   
 -----------------------------------------------------------------------------------------------------------
 
-# Model Results 
+# Model Results :
 - XGboost is the best preforming model 
 - With input features of category, percent population with an education, and percent population under 25 the model achieved..
   * Training Score: 0.999, Test Score: 0.996
   * RMSE: 17357.78
   
-# Analysis Takeaways 
+# Analysis Takeaways :
 - Focus advertising resources on counties that bring in the most money
 - Advertise for seasonal liquor at the beginning of their respective seasons
 - Strengthen advertising to and around college campuses
