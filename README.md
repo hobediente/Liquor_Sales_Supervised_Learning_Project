@@ -152,12 +152,8 @@ In this step, I visualized the previous findings using ploty.express
 
 **Step 3 : Select Best Model**
 - Compare goodness of model meterics and select best model
-  * MAE
-  * MSE
-  * RMSE
-  * MAPE
+  * MAE, MSE, RMSE, MAPE
   
-
 -----------------------------------------------------------------------------------------------------------
 
 # Model Results 
