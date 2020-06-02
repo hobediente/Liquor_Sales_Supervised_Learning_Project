@@ -30,7 +30,7 @@ In this step the unique dataset I put together is used to predict yearly liquor 
 # Data Collection 
 
 **Step 1 : Selecting the data**
-The following steps are preformed using Google BigQuery
+The following steps were preformed using Google BigQuery
 
 - Identify top distributers in Iowa Liquor Sales dataset
 - Audit top distributers by the variety of alcohol they sell
@@ -139,3 +139,34 @@ In this step, I visualized the previous findings using ploty.express
 
 
 # Modeling Sales
+
+**Step 1 : Selecting Model**
+- Run random forest
+- Run XGboost
+
+**Step 2 : Tuning Models**
+- Get feature importances
+- Rerun models with only important features
+- Run GridSearchCV to hypertune parameters
+- Rerun models with hypertuned parameters
+
+**Step 3 : Select Best Model**
+- Compare goodness of model meterics and select best model
+  * MAE
+  * MSE
+  * RMSE
+  * MAPE
+  
+
+-----------------------------------------------------------------------------------------------------------
+
+# Model Results 
+- XGboost is the best preforming model 
+- With input features of category, percent population with an education, and percent population under 25 the model achieved..
+  * Training Score: , Test Score: 
+  * RMSE: 
+  
+# Analysis Takeaways 
+- Focus advertising resources on counties that bring in the most money
+- Advertise for seasonal liquor at the beginning of their respective seasons
+- Strengthen advertising to and around college campuses
