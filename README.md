@@ -24,6 +24,7 @@ In this step the relationships between sales (in dollars) and other features are
 # 3. Modeling Sales:
 In this step the unique dataset I put together is used to predict yearly liquor sales per county in Iowa using data from the previous year.
 
+### *For results, limitations, and takeaways scroll to bottom*
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -166,3 +167,7 @@ In this step, I visualized the previous findings using ploty.express
 - Focus advertising resources on counties that bring in the most money
 - Advertise for seasonal liquor at the beginning of their respective seasons
 - Strengthen advertising to and around college campuses
+
+# Limitations :
+- I conducted this project before learning about techniques and models associated with time-series data
+  * Moving forward I would check for seasonality and trends in sales, segment sales into quarters, engineer lag and window   features, then build new models to predict yearly sales based on first quarter sales. 
